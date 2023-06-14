@@ -1,0 +1,24 @@
+.container{
+    background-color: grey;
+    width: 30%;
+    height: 450px;
+    margin: 0px auto;
+    margin-top: 250px;
+}
+
+.box{
+    width:100%;
+    margin-left: 150px;
+    padding-top: 10px;
+}
+
+.name{
+    width: 200px;
+    border-radius: 4px;
+}
+
+.box .comments{
+    width: 200px;
+    height: 120px;
+    border-radius: 4px;
+}
